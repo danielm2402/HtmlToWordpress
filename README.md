@@ -1,5 +1,5 @@
 # HtmlToWordpress
-Ejemplo de configuración de una plantilla html a wordpress
+Una mini guía de configuración de una plantilla html a wordpress
 
 1. Crear pagina de inicio en wordpress
 2. Pasar la plantilla a la carpeta wordpress/wp-content/themes
